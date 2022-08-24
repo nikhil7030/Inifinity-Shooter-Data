@@ -1,0 +1,49 @@
+{
+    "envVariables": [
+        {
+            "name": "Pizza",
+            "maxScale": "0.24",
+            "minScaleSpeed": "5",
+            "maxScaleSpeed": "10",
+            "scaleSpeedAcceleration": "25",
+            "minIntervalBetweenSpawwing": "0.7",
+            "maxIntervalBetweenSpawwing": "1"
+        },
+        {
+            "name": "Cemetery",
+            "maxScale": "0.24",
+            "minScaleSpeed": "5",
+            "maxScaleSpeed": "10",
+            "scaleSpeedAcceleration": "25",
+            "minIntervalBetweenSpawwing": "0.7",
+            "maxIntervalBetweenSpawwing": "1"
+        },
+        {
+            "name": "Minecraft",
+            "maxScale": "0.24",
+            "minScaleSpeed": "5",
+            "maxScaleSpeed": "10",
+            "scaleSpeedAcceleration": "25",
+            "minIntervalBetweenSpawwing": "0.7",
+            "maxIntervalBetweenSpawwing": "1"
+        },
+        {
+            "name": "Forest",
+            "maxScale": "0.24",
+            "minScaleSpeed": "5",
+            "maxScaleSpeed": "10",
+            "scaleSpeedAcceleration": "25",
+            "minIntervalBetweenSpawwing": "0.7",
+            "maxIntervalBetweenSpawwing": "1"
+        },
+        {
+            "name": "Halloween",
+            "maxScale": "0.24",
+            "minScaleSpeed": "5",
+            "maxScaleSpeed": "10",
+            "scaleSpeedAcceleration": "25",
+            "minIntervalBetweenSpawwing": "0.7",
+            "maxIntervalBetweenSpawwing": "1"
+        }
+    ]
+}
